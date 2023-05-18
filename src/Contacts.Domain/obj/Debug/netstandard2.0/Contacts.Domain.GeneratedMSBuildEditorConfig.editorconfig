@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Contacts.Domain
+build_property.ProjectDir = c:\Users\wagne\Projetos C#\Api Contact\src\Contacts.Domain\
