@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Contatos.Domain.Models
+namespace Contatos.Domain.Interfaces
 {
-    public class BaseEntity
+    public interface IUnitOfWork
     {
-        public int Id { get; private set; }
+        Task Commit();
     }
 }
