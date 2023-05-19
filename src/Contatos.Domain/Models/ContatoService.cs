@@ -26,7 +26,5 @@ namespace Contatos.Domain.Models
             else
                 contato.Update(nome, email);
         }
-
-
     }
 }
