@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Contatos.Domain.Interfaces;
 
 namespace Contatos.Domain.Models
 {
@@ -9,7 +10,7 @@ namespace Contatos.Domain.Models
     {
         private readonly IRepository<Contato> _contatoRepository;
 
-        public ContatoService(IRepository<Contato> _contatoRepository)
+        public ContatoService(IRepository<Contato> contatoRepository)
         {
             _contatoRepository = contatoRepository;
         }

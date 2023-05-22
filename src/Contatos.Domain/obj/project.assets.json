@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wagne\\Projetos C#\\Api Contact\\src\\Contacts.Domain\\Contacts.Domain.csproj",
-      "projectName": "Contacts.Domain",
-      "projectPath": "C:\\Users\\wagne\\Projetos C#\\Api Contact\\src\\Contacts.Domain\\Contacts.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\wagne\\Projetos C#\\Api Contact\\src\\Contatos.Domain\\Contatos.Domain.csproj",
+      "projectName": "Contatos.Domain",
+      "projectPath": "C:\\Users\\wagne\\Projetos C#\\Api Contact\\src\\Contatos.Domain\\Contatos.Domain.csproj",
       "packagesPath": "C:\\Users\\wagne\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wagne\\Projetos C#\\Api Contact\\src\\Contacts.Domain\\obj\\",
+      "outputPath": "C:\\Users\\wagne\\Projetos C#\\Api Contact\\src\\Contatos.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wagne\\AppData\\Roaming\\NuGet\\NuGet.Config",
