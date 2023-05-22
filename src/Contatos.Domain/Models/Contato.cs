@@ -9,7 +9,7 @@ namespace Contatos.Domain.Models
     {
         public Contato(string nome, string email)
         {
-            ValidaCaterogia(nome, email);
+            ValidaCategoria(nome,email);
             Nome = nome;
             Email = email;
         }
